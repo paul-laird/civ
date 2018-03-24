@@ -1,1 +1,4 @@
-# civ
+# .civ.
+/civ/
+*civ*
+-civ-
