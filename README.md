@@ -1,9 +1,10 @@
-# .civ.
-civ
+# civ
+_civ_
 *civ*
--civ-
+__civ__
 
 
-#Hello
+## Hello
 
-.This is a markdown file.
+~~__This is a markdown file__~~
+
